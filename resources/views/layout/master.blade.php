@@ -33,6 +33,12 @@
     <link href="https://use.fontawesome.com/releases/v6.4.2/css/all.css" rel="stylesheet">
 
 <!--===============================================================================================-->
+
+<!-- Google Web Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@100..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+
 </head>
 <body class="animsition">
 
@@ -54,14 +60,15 @@
 							<span class="fs-16 m-r-6">
 								<i class="fa fa-phone" aria-hidden="true"></i>
 							</span>
-							<span>0507331118</span>
+							<span>507331118 (966+)</span>
 						</div>
 
 						<div class="t1-s-1 cl-13 m-r-50">
 							<span class="fs-16 m-r-6">
 								<i class="fa fa-clock-o" aria-hidden="true"></i>
 							</span>
-							<span>الأحد - الخميس من 8:00 إلى 18:00</span>
+														<span>الأحد - الخميس من 08:00 إلى 17:00</span>
+
 						</div>
 					</div>
 
@@ -89,7 +96,7 @@
 				<div class="limiter-menu-desktop container">
 					<!-- Logo desktop -->
 					<div class="logo" style="margin-left: 570px">
-						<a href="index.html"><img src="{{asset('assets/images/icons/1.png')}}" alt="LOGO"></a>
+						<a href="/"><img src="{{asset('assets/images/icons/1.png')}}" alt="LOGO"></a>
 					</div>
 
 					<!-- Menu desktop -->
@@ -153,7 +160,8 @@
 							<span class="fs-16 m-r-6">
 								<i class="fa fa-phone" aria-hidden="true"></i>
 							</span>
-							<span>0507331118</span>
+							<span>									(+966) 0507331118
+</span>
 						</div>
 					</li>
 
@@ -162,7 +170,8 @@
 							<span class="fs-16 m-r-6">
 								<i class="fa fa-clock-o" aria-hidden="true"></i>
 							</span>
-							<span>الأحد - الخميس من 8:00 إلى 18:00</span>
+														<span>الأحد - الخميس من 08:00 إلى 17:00</span>
+
 						</div>
 					</li>
 
@@ -210,7 +219,7 @@
 						<div>
 							<p class="t1-s-2 cl-13 p-b-17">
                                 شركة انظمة الكفاءة للتشغيل والصيانة
-                            مختصه في توفير كوادر التشغيل لمختلف التخصصات.
+
 
                             </p>
 
@@ -271,7 +280,7 @@
 								</span>
 
 								<span class="size-w-4">
-									0507331118
+507331118 (966+)
 
 								</span>
 							</li>
@@ -288,25 +297,25 @@
 						<div class="flex-wr-s-s">
 							<ul class="w-50">
 								<li class="p-b-9">
-									<a href="index.html" class="t1-s-2 cl-13 hov-link2 trans-02">
+									<a href="/" class="t1-s-2 cl-13 hov-link2 trans-02">
 										الرئيسية
 									</a>
 								</li>
 
 								<li class="p-b-9">
-									<a href="projects-grid.html" class="t1-s-2 cl-13 hov-link2 trans-02">
+									<a href="/about-us" class="t1-s-2 cl-13 hov-link2 trans-02">
 										من نحن
 									</a>
 								</li>
 
 								<li class="p-b-9">
-									<a href="services-list.html" class="t1-s-2 cl-13 hov-link2 trans-02">
+									<a href="/services" class="t1-s-2 cl-13 hov-link2 trans-02">
 										خدماتنا
 									</a>
 								</li>
 
 								<li class="p-b-9">
-									<a href="about.html" class="t1-s-2 cl-13 hov-link2 trans-02">
+									<a href="/contact" class="t1-s-2 cl-13 hov-link2 trans-02">
 										تواصل معنا
 									</a>
 								</li>
@@ -327,25 +336,25 @@
 						<div class="flex-wr-s-s">
 							<ul class="w-50">
 								<li class="p-b-9">
-									<a href="index.html" class="t1-s-2 cl-13 hov-link2 trans-02">
+									<a href="/services" class="t1-s-2 cl-13 hov-link2 trans-02">
 										الفنادق
 									</a>
 								</li>
 
 								<li class="p-b-9">
-									<a href="projects-grid.html" class="t1-s-2 cl-13 hov-link2 trans-02">
+									<a href="/services" class="t1-s-2 cl-13 hov-link2 trans-02">
                                         المطاعم
                                     </a>
 								</li>
 
 								<li class="p-b-9">
-									<a href="services-list.html" class="t1-s-2 cl-13 hov-link2 trans-02">
+									<a href="/services" class="t1-s-2 cl-13 hov-link2 trans-02">
 										الكافيهات
 									</a>
 								</li>
 
 								<li class="p-b-9">
-									<a href="about.html" class="t1-s-2 cl-13 hov-link2 trans-02">
+									<a href="/services" class="t1-s-2 cl-13 hov-link2 trans-02">
 النتجعات السياحية									</a>
 								</li>
 
@@ -362,7 +371,7 @@
 		<div class="bg-10">
 			<div class="container txt-center p-tb-15">
 				<span class="t1-s-2 cl-14">
-					شركة أنظمة الكفائة  @ 2024
+					شركة أنظمة الكفاءة  @ 2024
 				</span>
 			</div>
 		</div>

@@ -8,7 +8,7 @@
         </h2>
 
         <div class="flex-wr-c-c">
-            <a href="index.html" class="breadcrumb-item">
+            <a href="/" class="breadcrumb-item">
                 الرئيسة
             </a>
 
@@ -27,7 +27,7 @@
 
                 <div class="p-r-20 p-r-0-sr767">
                     <p class="t1-s-2 cl-6 m-b-10">
-                        <span class="t1-s-5 cl-3">شركة أنظمة الكفاءة للتشغيل والصيانة واختصارها ( ايسمو ESMO ( تاسست لتقديم حلول للمنشات في توفير الكوادر وتسهيل عمليات التشغيل و الصيانة وفق رؤية المملكة 2023 ونهدف لدعم المنشات للقيام بمهامها على اكمل وجهة وحصلنا على النجاح في تقديم الحلول في كل احترافية و مهنية وبناء علاقات استراتيجية مع جميع القطاعات بأعلى المعايير الجودة مستثمرين تجاربنا الناجح مع شركائنا.</p>
+                        <span class="t1-s-5 cl-3">شركة أنظمة الكفاءة للتشغيل والصيانة  ( ايسمو ESMO ) تاسست لتقديم حلول للمنشات في توفير الكوادر وتسهيل عمليات التشغيل و الصيانة وفق رؤية المملكة 2030 ونهدف لدعم المنشات للقيام بمهامها على اكمل وجهة وحصلنا على النجاح في تقديم الحلول في كل احترافية و مهنية وبناء علاقات استراتيجية مع جميع القطاعات بأعلى المعايير الجودة مستثمرين تجاربنا الناجح مع شركائنا.</p>
 
 
                 </div>
@@ -44,7 +44,7 @@
 
         <div class="flex-col-c-c p-b-50">
         <h3 class="t1-b-1 cl-3 txt-center m-b-11">
-        من نحن
+        قيمنا
         </h3>
         <div class="size-a-2 bg-3"></div>
         </div>
@@ -55,19 +55,18 @@
         <div class="block1 trans-04">
         <div class="block1-show trans-04">
         <div class="block1-symbol txt-center wrap-pic-max-s m-b-23 pos-relative lh-00 trans-04">
-        <img class="symbol-dark trans-04" src="{{asset('assets/images/cooperation.png')}}" alt="IMG">
-        <img class="symbol-light ab-t-c op-00 trans-04" src="{{asset('assets/images/cooperation.png')}}" alt="IMG">
+        <img class="symbol-dark trans-04" src="{{asset('assets/images/meeting.png')}}" alt="IMG">
+        <img class="symbol-light ab-t-c op-00 trans-04" src="{{asset('assets/images/meeting.png')}}" alt="IMG">
         </div>
         <h4 class="block1-title t1-m-1 text-uppercase cl-3 txt-center trans-04">
-       رؤبتنا
-        </h4>
+هدفنا        </h4>
         </div>
         <div class="block1-hide flex-col-c-c p-t-8 trans-04">
         <p class="t1-s-2 cl-12 txt-center p-b-26">
-            الاحترافية والمهنية في بناء علاقات استراتيجية مع شركائنا وان نكون الاختيار الأول لعملاءنا.
+            .نهدف الى تقديم الحلول المتكاملة لأعمالكم
         </p>
         <a href="#" class="flex-c-c size-a-1 p-rl-15 t1-s-2 text-uppercase cl-6 bg-0 hov-btn1 trans-02">
-       اعرف أكثر
+        اعرف اكثر
         </a>
         </div>
         </div>
@@ -94,23 +93,24 @@
         </div>
         </div>
         </div>
-        <div class="col-sm-10 col-md-6 col-lg-4 p-b-30">
+       <div class="col-sm-10 col-md-6 col-lg-4 p-b-30">
 
         <div class="block1 trans-04">
         <div class="block1-show trans-04">
         <div class="block1-symbol txt-center wrap-pic-max-s m-b-23 pos-relative lh-00 trans-04">
-        <img class="symbol-dark trans-04" src="{{asset('assets/images/meeting.png')}}" alt="IMG">
-        <img class="symbol-light ab-t-c op-00 trans-04" src="{{asset('assets/images/meeting.png')}}" alt="IMG">
+        <img class="symbol-dark trans-04" src="{{asset('assets/images/cooperation.png')}}" alt="IMG">
+        <img class="symbol-light ab-t-c op-00 trans-04" src="{{asset('assets/images/cooperation.png')}}" alt="IMG">
         </div>
         <h4 class="block1-title t1-m-1 text-uppercase cl-3 txt-center trans-04">
-هدفنا        </h4>
+       رؤيتنا
+        </h4>
         </div>
         <div class="block1-hide flex-col-c-c p-t-8 trans-04">
         <p class="t1-s-2 cl-12 txt-center p-b-26">
-            .نهدف الى تقديم الحلول المتكاملة لأعمالكم
+            الاحترافية والمهنية في بناء علاقات استراتيجية مع شركائنا وان نكون الاختيار الأول لعملاءنا.
         </p>
         <a href="#" class="flex-c-c size-a-1 p-rl-15 t1-s-2 text-uppercase cl-6 bg-0 hov-btn1 trans-02">
-        اعرف اكثر
+       اعرف أكثر
         </a>
         </div>
         </div>

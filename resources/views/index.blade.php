@@ -8,7 +8,7 @@
 
 					<!-- Slide 2 -->
 					<li data-transition="slidingoverlayvertical">
-						<img src="{{asset('assets/images/99.png')}}" alt="IMG-SLIDE" class="rev-slidebg">
+						<img src="{{asset('assets/images/991.png')}}" alt="IMG-SLIDE" class="rev-slidebg">
 
 						<h2 class="tp-caption tp-resizeme caption-1 text-uppercase"
 						data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"y:top;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
@@ -97,7 +97,7 @@
 
 					<!-- Slide 3 -->
 					<li data-transition="boxslide">
-						<img src="{{asset('assets/images/999.png')}}" alt="IMG-SLIDE" class="rev-slidebg">
+						<img src="{{asset('assets/images/9991.png')}}" alt="IMG-SLIDE" class="rev-slidebg">
 
 						<h2 class="tp-caption tp-resizeme caption-1 text-uppercase"
 						data-frames='[{"delay":500,"speed":1500,"frame":"0","from":"x:-500px;skX:85px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
@@ -186,6 +186,114 @@
 			</div>
 		</div>
 	</section>
+    <section class="bg-0 p-t-92 p-b-60">
+        <div class="container" style="direction: rtl">
+
+        <div class="flex-col-c-c p-b-50">
+        <h3 class="t1-b-1 cl-3 txt-center m-b-11">
+        من نحن
+        </h3>
+        <div class="size-a-2 bg-3"></div>
+        </div>
+        <div class="row about-content">
+            <div class="col-sm-10 col-md-12 p-b-35">
+                <!-- Title section -->
+
+                <div class="p-r-20 p-r-0-sr767">
+                    <p class="t1-s-2 cl-6 m-b-10">
+                        <span class="t1-s-5 cl-3">شركة أنظمة الكفاءة للتشغيل والصيانة  ( ايسمو ESMO ) تاسست لتقديم حلول للمنشات في توفير الكوادر وتسهيل عمليات التشغيل و الصيانة وفق رؤية المملكة 2030 ونهدف لدعم المنشات للقيام بمهامها على اكمل وجهة وحصلنا على النجاح في تقديم الحلول في كل احترافية و مهنية وبناء علاقات استراتيجية مع جميع القطاعات بأعلى المعايير الجودة مستثمرين تجاربنا الناجح مع شركائنا.</p>
+
+
+                </div>
+            </div>
+
+
+        </div>
+        </div>
+
+    </section>
+    <section class="bg-12 p-t-92 p-b-70">
+        <div class="container">
+
+        <div class="flex-col-c-c p-b-50">
+        <h3 class="t1-b-1 cl-3 txt-center m-b-11">
+         قيمنا
+        </h3>
+        <div class="size-a-2 bg-3"></div>
+        </div>
+
+        <div class="row justify-content-center">
+         <div class="col-sm-10 col-md-6 col-lg-4 p-b-30">
+
+        <div class="block1 trans-04">
+        <div class="block1-show trans-04">
+        <div class="block1-symbol txt-center wrap-pic-max-s m-b-23 pos-relative lh-00 trans-04">
+        <img class="symbol-dark trans-04" src="{{asset('assets/images/meeting.png')}}" alt="IMG">
+        <img class="symbol-light ab-t-c op-00 trans-04" src="{{asset('assets/images/meeting.png')}}" alt="IMG">
+        </div>
+        <h4 class="block1-title t1-m-1 text-uppercase cl-3 txt-center trans-04">
+هدفنا        </h4>
+        </div>
+        <div class="block1-hide flex-col-c-c p-t-8 trans-04">
+        <p class="t1-s-2 cl-12 txt-center p-b-26">
+            .نهدف الى تقديم الحلول المتكاملة لأعمالكم
+        </p>
+        <a href="#" class="flex-c-c size-a-1 p-rl-15 t1-s-2 text-uppercase cl-6 bg-0 hov-btn1 trans-02">
+        اعرف اكثر
+        </a>
+        </div>
+        </div>
+        </div>
+
+        <div class="col-sm-10 col-md-6 col-lg-4 p-b-30">
+
+        <div class="block1 trans-04">
+        <div class="block1-show trans-04">
+        <div class="block1-symbol txt-center wrap-pic-max-s m-b-23 pos-relative lh-00 trans-04">
+        <img class="symbol-dark trans-04" src="{{asset('assets/images/growth.png')}}" alt="IMG">
+        <img class="symbol-light ab-t-c op-00 trans-04" src="{{asset('assets/images/growth.png')}}" alt="IMG">
+        </div>
+        <h4 class="block1-title t1-m-1 text-uppercase cl-3 txt-center trans-04">
+        رسالتنا
+        </h4>
+        </div>
+        <div class="block1-hide flex-col-c-c p-t-8 trans-04">
+        <p class="t1-s-2 cl-12 txt-center p-b-26">
+            .تقديم خدمات متكاملة بأعلى معايير الجودة، مستثمرين في ذلك طاقاتنا وخبراتنا
+        </p>
+        <a href="#" class="flex-c-c size-a-1 p-rl-15 t1-s-2 text-uppercase cl-6 bg-0 hov-btn1 trans-02">
+            اعرف اكثر
+        </a>
+        </div>
+        </div>
+        </div>
+        <div class="col-sm-10 col-md-6 col-lg-4 p-b-30">
+
+        <div class="block1 trans-04">
+        <div class="block1-show trans-04">
+        <div class="block1-symbol txt-center wrap-pic-max-s m-b-23 pos-relative lh-00 trans-04">
+        <img class="symbol-dark trans-04" src="{{asset('assets/images/cooperation.png')}}" alt="IMG">
+        <img class="symbol-light ab-t-c op-00 trans-04" src="{{asset('assets/images/cooperation.png')}}" alt="IMG">
+        </div>
+        <h4 class="block1-title t1-m-1 text-uppercase cl-3 txt-center trans-04">
+       رؤيتنا
+        </h4>
+        </div>
+        <div class="block1-hide flex-col-c-c p-t-8 trans-04">
+        <p class="t1-s-2 cl-12 txt-center p-b-26">
+            الاحترافية والمهنية في بناء علاقات استراتيجية مع شركائنا وان نكون الاختيار الأول لعملاءنا.
+        </p>
+        <a href="#" class="flex-c-c size-a-1 p-rl-15 t1-s-2 text-uppercase cl-6 bg-0 hov-btn1 trans-02">
+       اعرف أكثر
+        </a>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </section>
+
+
     <section class="bg-0 p-t-92 p-b-60">
         <div class="container">
 
@@ -336,86 +444,6 @@
         </div>
         </div>
         </section>
-    <section class="bg-12 p-t-92 p-b-70">
-        <div class="container">
-
-        <div class="flex-col-c-c p-b-50">
-        <h3 class="t1-b-1 cl-3 txt-center m-b-11">
-        من نحن
-        </h3>
-        <div class="size-a-2 bg-3"></div>
-        </div>
-
-        <div class="row justify-content-center">
-        <div class="col-sm-10 col-md-6 col-lg-4 p-b-30">
-
-        <div class="block1 trans-04">
-        <div class="block1-show trans-04">
-        <div class="block1-symbol txt-center wrap-pic-max-s m-b-23 pos-relative lh-00 trans-04">
-        <img class="symbol-dark trans-04" src="{{asset('assets/images/cooperation.png')}}" alt="IMG">
-        <img class="symbol-light ab-t-c op-00 trans-04" src="{{asset('assets/images/cooperation.png')}}" alt="IMG">
-        </div>
-        <h4 class="block1-title t1-m-1 text-uppercase cl-3 txt-center trans-04">
-       رؤبتنا
-        </h4>
-        </div>
-        <div class="block1-hide flex-col-c-c p-t-8 trans-04">
-        <p class="t1-s-2 cl-12 txt-center p-b-26">
-            الاحترافية والمهنية في بناء علاقات استراتيجية مع شركائنا وان نكون الاختيار الأول لعملاءنا.
-        </p>
-        <a href="#" class="flex-c-c size-a-1 p-rl-15 t1-s-2 text-uppercase cl-6 bg-0 hov-btn1 trans-02">
-       اعرف أكثر
-        </a>
-        </div>
-        </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-lg-4 p-b-30">
-
-        <div class="block1 trans-04">
-        <div class="block1-show trans-04">
-        <div class="block1-symbol txt-center wrap-pic-max-s m-b-23 pos-relative lh-00 trans-04">
-        <img class="symbol-dark trans-04" src="{{asset('assets/images/growth.png')}}" alt="IMG">
-        <img class="symbol-light ab-t-c op-00 trans-04" src="{{asset('assets/images/growth.png')}}" alt="IMG">
-        </div>
-        <h4 class="block1-title t1-m-1 text-uppercase cl-3 txt-center trans-04">
-        رسالتنا
-        </h4>
-        </div>
-        <div class="block1-hide flex-col-c-c p-t-8 trans-04">
-        <p class="t1-s-2 cl-12 txt-center p-b-26">
-            .تقديم خدمات متكاملة بأعلى معايير الجودة، مستثمرين في ذلك طاقاتنا وخبراتنا
-        </p>
-        <a href="#" class="flex-c-c size-a-1 p-rl-15 t1-s-2 text-uppercase cl-6 bg-0 hov-btn1 trans-02">
-            اعرف اكثر
-        </a>
-        </div>
-        </div>
-        </div>
-        <div class="col-sm-10 col-md-6 col-lg-4 p-b-30">
-
-        <div class="block1 trans-04">
-        <div class="block1-show trans-04">
-        <div class="block1-symbol txt-center wrap-pic-max-s m-b-23 pos-relative lh-00 trans-04">
-        <img class="symbol-dark trans-04" src="{{asset('assets/images/meeting.png')}}" alt="IMG">
-        <img class="symbol-light ab-t-c op-00 trans-04" src="{{asset('assets/images/meeting.png')}}" alt="IMG">
-        </div>
-        <h4 class="block1-title t1-m-1 text-uppercase cl-3 txt-center trans-04">
-هدفنا        </h4>
-        </div>
-        <div class="block1-hide flex-col-c-c p-t-8 trans-04">
-        <p class="t1-s-2 cl-12 txt-center p-b-26">
-            .نهدف الى تقديم الحلول المتكاملة لأعمالكم
-        </p>
-        <a href="#" class="flex-c-c size-a-1 p-rl-15 t1-s-2 text-uppercase cl-6 bg-0 hov-btn1 trans-02">
-        اعرف اكثر
-        </a>
-        </div>
-        </div>
-        </div>
-        </div>
-        </div>
-        </section>
-
 
         <div class="parallax100 kit-overlay1 p-tb-38" style="background-image: url(&quot;images/bg-01.jpg&quot;); background-position: center 45.8333px;">
             <div class="container">
