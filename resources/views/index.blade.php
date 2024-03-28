@@ -84,12 +84,12 @@
 					    data-basealign="slide"
     					data-responsive_offset="off"
 					    >
-						    <a href="projects-grid.html" class="btn1 flex-c-c">
+						    <a href="/contact" class="btn1 flex-c-c">
                                 تواصل معنا
 
 						    </a>
 
-						    <a href="about.html" class="btn2 flex-c-c">
+						    <a href="/about-us" class="btn2 flex-c-c">
 						    	اعرف اكتر
 						    </a>
 					    </div>
@@ -173,11 +173,11 @@
 					    data-basealign="slide"
     					data-responsive_offset="off"
 					    >
-						    <a href="projects-grid.html" class="btn1 flex-c-c">
+						    <a href="/contact" class="btn1 flex-c-c">
 						    تواصل معنا
 						    </a>
 
-						    <a href="about.html" class="btn2 flex-c-c">
+						    <a href="/about-us" class="btn2 flex-c-c">
 						    	اعرف اكتر
 						    </a>
 					    </div>

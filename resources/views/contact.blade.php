@@ -10,7 +10,7 @@
 			</h2>
 
 			<div class="flex-wr-c-c">
-				<a href="index.html" class="breadcrumb-item">
+				<a href="/" class="breadcrumb-item">
 					الرئيسية
 				</a>
 
