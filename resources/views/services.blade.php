@@ -35,7 +35,7 @@
             <div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
             <div class="bg-10 h-full">
             <a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
-            <img src="{{asset('assets/images/1.jpg')}}" alt="IMG">
+            <img src="{{asset('assets/images/services/1.jpg')}}" alt="IMG">
             </a>
             <div class="p-rl-30 p-t-26 p-b-20">
             <h4 class="p-b-9">
@@ -50,7 +50,7 @@
             <div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
             <div class="bg-10 h-full">
             <a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
-            <img src="{{asset('assets/images/3.jpg')}}" alt="IMG">
+            <img src="{{asset('assets/images/services/3.jpg')}}" alt="IMG">
             </a>
             <div class="p-rl-30 p-t-26 p-b-20">
             <h4 class="p-b-9">
@@ -65,7 +65,7 @@
             <div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
             <div class="bg-10 h-full">
             <a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
-            <img src="{{asset('assets/images/4.jpg')}}" alt="IMG">
+            <img src="{{asset('assets/images/services/4.jpg')}}" alt="IMG">
             </a>
             <div class="p-rl-30 p-t-26 p-b-20">
             <h4 class="p-b-9">
@@ -80,7 +80,7 @@
             <div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
                 <div class="bg-10 h-full">
                 <a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
-                <img src="{{asset('assets/images/5.jpg')}}" alt="IMG">
+                <img src="{{asset('assets/images/services/5.jpg')}}" alt="IMG">
                 </a>
                 <div class="p-rl-30 p-t-26 p-b-20">
                 <h4 class="p-b-9">
@@ -95,7 +95,7 @@
                 <div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
                     <div class="bg-10 h-full">
                     <a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
-                    <img src="{{asset('assets/images/6.jpg')}}" alt="IMG">
+                    <img src="{{asset('assets/images/services/6.jpg')}}" alt="IMG">
                     </a>
                     <div class="p-rl-30 p-t-26 p-b-20">
                     <h4 class="p-b-9">
@@ -111,7 +111,7 @@
                     <div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
                         <div class="bg-10 h-full">
                         <a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
-                        <img src="{{asset('assets/images/7.jpg')}}" alt="IMG">
+                        <img src="{{asset('assets/images/services/7.jpg')}}" alt="IMG">
                         </a>
                         <div class="p-rl-30 p-t-26 p-b-20">
                         <h4 class="p-b-9">
@@ -126,7 +126,7 @@
                         <div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
                             <div class="bg-10 h-full">
                             <a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
-                            <img src="{{asset('assets/images/9.jpg')}}" alt="IMG">
+                            <img src="{{asset('assets/images/services/9.jpg')}}" alt="IMG">
                             </a>
                             <div class="p-rl-30 p-t-26 p-b-20">
                             <h4 class="p-b-9">
@@ -141,7 +141,7 @@
                             <div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
                                 <div class="bg-10 h-full">
                                 <a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
-                                <img src="{{asset('assets/images/10.jpg')}}" alt="IMG">
+                                <img src="{{asset('assets/images/services/10.jpg')}}" alt="IMG">
                                 </a>
                                 <div class="p-rl-30 p-t-26 p-b-20">
                                 <h4 class="p-b-9">
@@ -156,7 +156,7 @@
                                  <div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
             <div class="bg-10 h-full">
             <a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
-            <img src="{{asset('assets/images/11.jpg')}}" alt="IMG">
+            <img src="{{asset('assets/images/services/11.jpg')}}" alt="IMG">
             </a>
             <div class="p-rl-30 p-t-26 p-b-20">
             <h4 class="p-b-9">
