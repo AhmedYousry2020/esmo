@@ -73,7 +73,7 @@
 					</div>
 
 					<div class="text-nowrap">
-						<a href="#" class="fs-16 cl-13 hov-link2 trans-02 m-l-15">
+						<a href="https://www.facebook.com/profile.php?id=61557559063812&mibextid=LQQJ4d" class="fs-16 cl-13 hov-link2 trans-02 m-l-15">
 							<i class="fa-brands fa-facebook"></i>
 						</a>
 
@@ -177,7 +177,7 @@
 
 					<li>
 						<div>
-							<a href="#" class="fs-16 cl-5 hov-link2 trans-02 m-r-15">
+							<a href="https://www.facebook.com/profile.php?id=61557559063812&mibextid=LQQJ4d" class="fs-16 cl-5 hov-link2 trans-02 m-r-15">
 								<i class="fa-brands fa-facebook"></i>
 							</a>
 
