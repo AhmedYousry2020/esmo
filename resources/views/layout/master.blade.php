@@ -224,22 +224,22 @@
                             </p>
 
 							<div class="flex-wr-s-c p-t-10">
-								<a href="#" class="flex-c-c size-a-7 borad-50per bg-11 fs-16 cl-0 hov-btn2 trans-02 m-r-10">
+								<a href="https://www.facebook.com/profile.php?id=61557559063812&mibextid=LQQJ4d" class="flex-c-c size-a-7 borad-50per bg-11 fs-16 cl-0 hov-btn2 trans-02 m-r-10">
 									<i class="fa-brands fa-facebook"></i>
 								</a>
 
-								<a href="#" class="flex-c-c size-a-7 borad-50per bg-11 fs-16 cl-0 hov-btn2 trans-02 m-r-10">
+								<a href="https://twitter.com/esmo_ksa" class="flex-c-c size-a-7 borad-50per bg-11 fs-16 cl-0 hov-btn2 trans-02 m-r-10">
                                     <i class="fa-brands fa-square-x-twitter"></i>						</a>
 
 								</a>
 
 
 
-								<a href="#" class="flex-c-c size-a-7 borad-50per bg-11 fs-16 cl-0 hov-btn2 trans-02 m-r-10">
+								<a href="https://www.instagram.com/esmo.ksa/" class="flex-c-c size-a-7 borad-50per bg-11 fs-16 cl-0 hov-btn2 trans-02 m-r-10">
 									<i class="fa-brands fa-instagram"></i>
 								</a>
 
-								<a href="#" class="flex-c-c size-a-7 borad-50per bg-11 fs-16 cl-0 hov-btn2 trans-02 m-r-10">
+								<a href="https://www.linkedin.com/company/esmo-co/?viewAsMember=true" class="flex-c-c size-a-7 borad-50per bg-11 fs-16 cl-0 hov-btn2 trans-02 m-r-10">
 									<i class="fa-brands fa-linkedin"></i>
 								</a>
 							</div>
