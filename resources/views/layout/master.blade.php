@@ -77,15 +77,15 @@
 							<i class="fa-brands fa-facebook"></i>
 						</a>
 
-						<a href="#" class="fs-16 cl-13 hov-link2 trans-02 m-l-15">
+						<a href="https://twitter.com/esmo_ksa" class="fs-16 cl-13 hov-link2 trans-02 m-l-15">
                             <i class="fa-brands fa-square-x-twitter"></i>						</a>
 
 
-						<a href="#" class="fs-16 cl-13 hov-link2 trans-02 m-l-15">
+						<a href="https://www.instagram.com/esmo.ksa/" class="fs-16 cl-13 hov-link2 trans-02 m-l-15">
 							<i class="fa-brands fa-instagram"></i>
 						</a>
 
-						<a href="#" class="fs-16 cl-13 hov-link2 trans-02 m-l-15">
+						<a href="https://www.linkedin.com/company/esmo-co/?viewAsMember=true" class="fs-16 cl-13 hov-link2 trans-02 m-l-15">
 							<i class="fa-brands fa-linkedin"></i>
 						</a>
 					</div>
@@ -181,17 +181,17 @@
 								<i class="fa-brands fa-facebook"></i>
 							</a>
 
-							<a href="#" class="fs-16 cl-5 hov-link2 trans-02 m-r-15">
+							<a href="https://twitter.com/esmo_ksa" class="fs-16 cl-5 hov-link2 trans-02 m-r-15">
 								<i class="fa-brands fa-square-x-twitter"></i>
 							</a>
 
 
 
-							<a href="#" class="fs-16 cl-5 hov-link2 trans-02 m-r-15">
+							<a href="https://www.instagram.com/esmo.ksa/" class="fs-16 cl-5 hov-link2 trans-02 m-r-15">
 								<i class="fa-brands fa-instagram"></i>
 							</a>
 
-							<a href="#" class="fs-16 cl-5 hov-link2 trans-02 m-r-15">
+							<a href="https://www.linkedin.com/company/esmo-co/?viewAsMember=true" class="fs-16 cl-5 hov-link2 trans-02 m-r-15">
 								<i class="fa-brands fa-linkedin"></i>
 							</a>
 						</div>
