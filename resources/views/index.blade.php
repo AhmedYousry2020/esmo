@@ -614,6 +614,14 @@
                     <img class="" src="{{asset('assets/images/testimonial/15.jfif')}}" alt="IMG" style="height:100px">
 
                  </div>
+                 <div class="col-md-2 mb-3">
+
+                    <img class="" src="{{asset('assets/images/testimonial/19.jfif')}}" alt="IMG" style="height:100px">
+
+                 </div>
+                 <div class="col-md-2 mb-3">
+                    <img src="{{asset('assets/images/testimonial/20.jpg')}}" style="height:102px">
+                </div>
 
 			</div>
 		</div>
